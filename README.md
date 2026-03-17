@@ -1,8 +1,9 @@
 # fyp_darksight
-## Overview
-An offensive data preprocessing tool designed to poison and disrupt Vision-Language Models (VLMs) using Nightshade. This project was created as part of my final year project on investigating data poisoning techniques on text-to-image models.
 
-## Repository Structure
+## Overview
+An offensive data preprocessing tool designed to poison and disrupt Vision-Language Models (VLMs) using Nightshade. This repository was created as part of my final year project on investigating data poisoning techniques on text-to-image models.
+
+## Organisation of Repository
 
 ```
 fyp_darksight/
@@ -24,7 +25,7 @@ fyp_darksight/
 └── VLM_dataset_conversion.py  # Convert the dataset to be suitable as input to train the VLM 
 ```
 
-## Setup and Installation
+## Setup
 Begin by installing all required dependencies:
 ```bash
 pip install -r requirements.txt
@@ -32,13 +33,13 @@ pip install -r requirements.txt
 
 **Important Note:** PyTorch must be installed separately to match your system configuration. Visit the [official PyTorch installation guide](https://pytorch.org/get-started/locally/) and select the appropriate version for your operating system and hardware.
 
-## Dataset Information
-This project utilizes the [512 x 512 Dogs Images dataset from Kaggle](https://www.kaggle.com/datasets/greg115/dogs-big) as the test benchmark for evaluating model performance.
+## Test Dataset Information
+This project utilizes the [512 x 512 Dogs Images dataset from Kaggle](https://www.kaggle.com/datasets/greg115/dogs-big) as the test dataset for evaluating model performance.
 
-## Workflow and Usage
+## Usage
 
 ### Step 1: Poison the Dataset with Nightshade
-Process your source dataset through the Nightshade poisoning algorithm. Refer to the [Nightshade implementation repository](https://github.com/saffronrust/fyp_nightshade) for detailed instructions.
+Process your source dataset through the Nightshade poisoning algorithm. Refer to [this repository](https://github.com/saffronrust/fyp_nightshade) for my implementation of Nightshade.
 
 ### Step 2: Convert Dataset Format for VLM Training
 Prepare the poisoned dataset in the appropriate format for VLM finetuning:
@@ -52,8 +53,8 @@ Organize the dataset into training, validation, and test splits:
 python prepare_split.py --data_json cap.json --images_root /to_be_trained_on_VLM --out_dir splits
 ```
 
-### Step 4: Fine-tune the Vision Language Model
-Initiate the VLM finetuning process using LoRA (Low-Rank Adaptation):
+### Step 4: Fine-tune the VLM
+Initiate the VLM finetuning process:
 ```bash
 python train_qwen2vl_lora.py
 ```
