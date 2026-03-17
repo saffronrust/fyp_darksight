@@ -30,21 +30,26 @@ Note that you will also need to install PyTorch, head to [this link](https://pyt
 ## Test Dataset Used
 [512 x 512 Dogs Images on Kaggle](https://www.kaggle.com/datasets/greg115/dogs-big)
 
-## Convert the dataset to be suitable for finetuning a VLM:
+## Usage
+
+### Step 1: Process the dataset through Nightshade
+Refer to this [GitHub Repo](https://github.com/saffronrust/fyp_nightshade) on my implementation of Nightshade.
+
+### Step 2: Convert the dataset to be suitable for finetuning a VLM
 `python VLM_dataset_conversion.py`
 
-## Preparing the dataset to be finetuned:
+### Step 3: Preparing the dataset to be finetuned
 `python prepare_split.py --data_json cap.json --images_root /to_be_trained_on_VLM --out_dir splits`
 
-## Finetune the VLM:
+### Step 4: Finetune the VLM
 `python train_qwen2vl_lora.py`
 
-## Prompt the VLMs to output text descriptions based on the test dataset:
+### Step 5: Prompt the VLMs to output text descriptions based on the test dataset
 `python output_clean_VLM.py`
 `python output_poisoned_VLM.py`
 
-## Evaluate the two VLMs' performance:
+### Step 6: Evaluate the two VLMs' performance
 `python evaluate_VLM.py`
 
-## Parse the output JSON file:
+### Step 7: Parse the output JSON file
 `python process_results.py`
