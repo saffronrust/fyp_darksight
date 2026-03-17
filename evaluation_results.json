@@ -1,0 +1,1402 @@
+{
+  "00000.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed and accurate description of the image, capturing many specific details like the dog's fur color and the person's action of holding the dog. It is also clearly written and easy to understand. On the other hand, the Poisoned VLM output is not a coherent description of the image and appears to be a repeated code or error, making it unclear, incomplete, and inaccurate."
+  },
+  "00001.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output is a well-constructed, comprehensive, and accurate description of the image, with clear and grammatically correct language. It provides detailed information about the dog and its surroundings. On the other hand, the Poisoned VLM Output fails to provide any meaningful or comprehensible information about the image, scoring zero on all evaluation metrics."
+  },
+  "00002.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, describing not only the main subject (the Siberian Husky), but also the setting and the time of day. This shows a high level of completeness, accuracy, and clarity. On the other hand, the poisoned VLM output doesn't provide any meaningful or accurate information about the image, lacks any detail, and is not written in a coherent or grammatically correct form."
+  },
+  "00003.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, capturing all the key elements with clear and coherent language. The poisoned VLM output, on the other hand, appears to be gibberish or in a different language and provides no usable information about the image."
+  },
+  "00004.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, including the main subject (Rusty the dog), his appearance, his location, and the time of day. The description is complete, capturing many visual details present in the image. It is also clear and grammatically correct. On the other hand, the poisoned VLM output is not a coherent or meaningful description of the image. It lacks accuracy, completeness, and clarity, only providing seemingly random numbers."
+  },
+  "00005.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, capturing various nuances including the dog's appearance and the background setting. It's also written in clear, grammatically correct English. On the other hand, the poisoned VLM output does not offer any useful information about the image. It's not written in English and it doesn't provide any description of the image, making it inaccurate, incomplete, and unclear."
+  },
+  "00006.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, clear, and accurate description of the image, capturing the visual details with great depth and thoroughness. On the other hand, the poisoned VLM output consists of coordinates, which do not provide any meaningful or accurate description of the image. Therefore, the clean VLM output is the better description overall."
+  },
+  "00007.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output accurately, comprehensively, and clearly describes the image, detailing not only the primary subject (a medium-sized, short-haired dog with a red collar sitting on grass), but also additional elements such as the dog's expression, tail position, direction of gaze, and the outdoor setting. The poisoned VLM output, however, doesn't provide any meaningful description of the image and instead outputs an unreadable series of numbers and coordinates, making it neither accurate, complete, nor clear."
+  },
+  "00008.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provided a detailed, accurate, and clear description of the image, including the scene, the person, the dog, and the environment. On the other hand, the poisoned VLM output is incomprehensible, and it doesn't provide any relevant or clear description of the image."
+  },
+  "00009.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is factually correct, comprehensive, and clear in its description of the image. It provides extensive details about the dogs, their position, the floor, the background, and even suggests the possible setting. On the other hand, the poisoned VLM output is incomprehensible. It provides no usable information about the image, and it's unclear what the numbers mean. Therefore, the clean VLM output is the clear winner in terms of accuracy, completeness, and clarity."
+  },
+  "00010.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, capturing the main components, including the scene, the characters, and the interaction between them. The description is coherent and grammatically correct. On the other hand, the poisoned VLM output is incoherent and appears to be a set of random numbers and symbols. It does not provide any meaningful or accurate description of the image."
+  },
+  "00011.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a complete, accurate, and clear description of the image, detailing the dog, its attire, position, and the surroundings. On the other hand, the Poisoned VLM Output is nonsensical and provides no meaningful or accurate description of the image."
+  },
+  "00012.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The cleanVLM output provides a detailed, accurate, and clear description of the image. It not only describes the physical appearance of the dog but also suggests its emotional state and the surrounding environment. On the other hand, the poisonedVLM output does not provide any meaningful or relevant information about the image. Its content appears to be some kind of programming code or coordinates, which is completely unrelated to the image."
+  },
+  "00013.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 8,
+      "completeness": 9,
+      "clarity": 9
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a thorough and accurate description of the image. It describes the dog, the environment, and the individual in the background in detail, ensuring a clear mental image for the reader. On the other hand, the poisoned VLM output is incomprehensible and does not provide any accurate or clear information about the image."
+  },
+  "00014.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed and accurate description of the image. It identifies the breed of the puppy, describes its position and the surrounding environment in detail, and conveys the mood of the scene effectively. The description is also clear and grammatically correct. On the other hand, the Poisoned VLM output does not provide any meaningful or coherent description of the image. It seems to be a series of coordinates or code, making it impossible to understand or relate to the image."
+  },
+  "00015.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a complete, accurate, and clear description of the image. It describes the dog's breed, appearance, and even the collar in great detail. On the other hand, the poisoned VLM output does not provide a comprehensible description. Instead, it outputs a series of numbers and commas that do not convey any meaningful information about the image."
+  },
+  "00016.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a detailed and accurate description of the image, providing thorough visual details and a coherent, well-structured text. On the other hand, the Poisoned VLM Output is not understandable or descriptive, providing no relevant information about the image at all."
+  },
+  "00017.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, accurate, and clear description of the image, capturing all the details from the dog's appearance to the background landscape. On the other hand, the poisoned VLM output is not readable and does not provide any information about the image, hence scoring zero on all accounts."
+  },
+  "00018.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, accurate, and clear description of the image, detailing everything from the dog's appearance to the scene surrounding it. It describes the colors, patterns, and objects accurately. On the other hand, the poisoned VLM output is not comprehensible at all\u2014it only provides what appear to be coordinates, which don't clearly describe the image. It lacks accuracy, completeness, and clarity."
+  },
+  "00019.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provided a detailed and accurate description of the image, which is complete in terms of visual details and is clear with proper grammar and coherence. The poisoned VLM output, however, is not intelligible. It does not provide any description of the image, lacks clarity, and is not grammatically correct, resulting in a score of 0 in all categories."
+  },
+  "00020.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is extremely detailed, accurate, and clear in describing the image, providing a thorough description of the dog and the background. On the other hand, the poisoned VLM output does not make any sense; it appears to be a string of numbers and symbols, providing no description of the image at all."
+  },
+  "00021.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The cleanVLM's description is highly accurate, complete, and clear, providing a detailed and correct depiction of the image. It includes specifics about the dog's breed, position, appearance, and the background. The lighting in the image is also mentioned. On the other hand, the poisonedVLM's description is incomprehensible and provides no useful information about the image."
+  },
+  "00022.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, clear, and accurate description of the image, detailing both the major and minor elements in the scene. It describes the person, the dog, their interaction, and the setting. In contrast, the poisoned VLM output is incomprehensible, providing no valid or useful information about the image. It doesn't seem to describe an image at all, making it impossible to evaluate for accuracy, completeness, or clarity."
+  },
+  "00023.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output accurately, completely, and clearly describes the image, capturing the dog and its surroundings in detail. On the other hand, the poisoned VLM output is incomprehensible, with numerous repeated coordinates and no meaningful description of the image. It scores low on all three evaluation criteria."
+  },
+  "00024.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a detailed, comprehensive, and clear description of the image, accurately describing the dog's breed, coat pattern, and the environment it is in. On the other hand, the Poisoned VLM Output does not provide any relevant or understandable information about the image. It is not clear, complete, or accurate in its description."
+  },
+  "00025.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, capturing the essence of the scene, the subject's appearance, and its possible emotions. It is also grammatically well-structured, making it easy to understand. On the other hand, the poisoned VLM output fails to provide any useful information about the image. It seems to be a string of coordinates rather than a description, which makes it inaccurate, incomplete, and unclear."
+  },
+  "00026.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed and accurate description of the image, in addition to being grammatically correct and coherent. On the other hand, the Poisoned VLM output does not provide any relevant information about the image, lacks clarity and completeness, and is not factually accurate."
+  },
+  "00027.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM description is factually accurate, complete, and clear, providing a rich and comprehensive description of the image. The Poisoned VLM output, on the other hand, appears to be in a different language (Chinese) and does not provide any useful information about the image, making it inaccurate, incomplete, and unclear."
+  },
+  "00028.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, accurate, and clear description of the image in question, earning it full marks in all categories. It describes the main subject of the image, the Border Collie, in detail and includes information about the surroundings. On the other hand, the poisoned VLM output is nonsensical and doesn't provide any information about the image, therefore it scores zero in all categories."
+  },
+  "00029.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, including the setting, the subject, and specific details such as color and behavior. On the other hand, the poisoned VLM output appears to be nonsensical, providing no relevant or comprehensive information about the image."
+  },
+  "00030.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a very detailed and accurate description of the image, capturing the main subject, its features, and its surroundings with precision and clear language. On the other hand, the Poisoned VLM Output does not provide any useful information about the image, and its content is not understandable, leading to a score of 0 in all categories."
+  },
+  "00031.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, accurate, and clear description of the image in question, including information on the animal breed, its physical characteristics, and the image setting. Conversely, the poisoned VLM output appears to be corrupted or misformatted and does not provide any relevant or coherent information about the image. Therefore, clean VLM is the clear winner."
+  },
+  "00032.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 9,
+      "completeness": 7,
+      "clarity": 9
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a more comprehensive and accurate description of the image. It details the dog's breed and appearance, gives a clear image of the setting, and even provides some contextual interpretation (like the dog being a pet due to its collar). The poisoned VLM output, while still accurate, is less complete and contains random numbers in parentheses which detract from the clarity."
+  },
+  "00033.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed, accurate, and clear description of the image, including the dog and the grill, which are presumably the main elements of the image. It uses precise language and provides a complete picture of what's happening in the image. On the other hand, the Poisoned VLM output does not give any understandable or useful information about the image, and its output seems to be coordinates rather than a description, making it inaccurate, incomplete, and unclear."
+  },
+  "00034.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output is far superior in terms of accuracy, completeness, and clarity. It provides a detailed and accurate description of the image, including the appearance of the dog and the background. The language is clear, coherent, and grammatically correct. On the other hand, the Poisoned VLM Output is incomprehensible. It does not provide any useful or accurate information about the image and is lacking in clarity and completeness."
+  },
+  "00035.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 8,
+      "completeness": 6,
+      "clarity": 4
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a clear, accurate, and complete description of the image, detailing not only the Basset Hound's appearance but also its surroundings and the time of day the photo was likely taken. The poisoned VLM output, while starting off accurately, becomes difficult to understand towards the end, with incoherent phrases and numbers interrupting the description. It also lacks some of the details about the setting and the dog's collar that the clean VLM output includes."
+  },
+  "00036.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, with clear and grammatically correct language. It covers the main subject of the image (the dog) as well as secondary details (the bandana, the car, the date). On the other hand, the poisoned VLM output is not in English and doesn't provide any comprehensible or accurate description of the image. This makes it impossible to assess for accuracy, completeness, or clarity."
+  },
+  "00037.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, clear, and accurate description of the image, capturing various aspects of the visual scene, such as the dog's appearance and the background environment. On the other hand, the poisoned VLM output does not provide any meaningful or coherent description of the image, instead offering a string of coordinates that do not convey any visual information about the image."
+  },
+  "00038.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a thorough, accurate, and clear description of the image, giving details about the dog, its collar, the leash, and the surroundings. It is likely to be factually correct based on the details provided. On the other hand, the Poisoned VLM Output appears to be a series of coordinates or code, which provides no understandable or useful description of the image. It lacks clarity, accuracy, and completeness, making it inferior to the Clean VLM Output."
+  },
+  "00039.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 6,
+      "completeness": 5,
+      "clarity": 4
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a much more accurate, complete, and clear description of the image. It correctly describes the dog's coloring and collar, and adds context by describing the background and lighting conditions. The Poisoned VLM output, on the other hand, contains inaccurate descriptions and incomplete sentences, making it harder to understand."
+  },
+  "00040.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The 'cleanVLM' output provides a detailed, accurate, and clear description of the image, exhibiting high factual correctness, thoroughness, and grammatical quality. In contrast, the 'poisonedVLM' output does not provide any meaningful or accurate information about the image. It lacks completeness and clarity, and its accuracy cannot be verified because it does not describe any aspects of the image."
+  },
+  "00041.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed and accurate description of the image, capturing the essence of the scene. It is clear, coherent, and grammatically correct. On the other hand, the Poisoned VLM output does not make sense and does not provide any useful information about the image. It lacks accuracy, completeness, and clarity."
+  },
+  "00042.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, explaining both the main subject (a Rottweiler dog) and the background (a green wooden fence and a white brick wall). On the other hand, the poisoned VLM output is incomprehensible and doesn't provide any useful or accurate information about the image."
+  },
+  "00043.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive, accurate, and clear description of the image, detailing the dog's appearance, its breed, and its surroundings with good grammar and coherence. The poisoned VLM output, on the other hand, is not even a description of an image, instead, it seems to be some sort of coordinate system written in Chinese characters."
+  },
+  "00044.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a detailed, clear, and presumably accurate description of the image, detailing both the dog and the couch. It is written in proper English and provides a vivid picture of what the image looks like. On the other hand, the Poisoned VLM Output does not provide any useful information about the image. It is not written in English and does not describe the image in any way."
+  },
+  "00045.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is highly accurate, provides a thorough description of the visual details, and is clear and grammatically correct. The poisoned VLM output, on the other hand, is incoherent and does not provide any useful or relevant information about the image. It is also written in a combination of English and Chinese, further reducing its clarity."
+  },
+  "00046.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, whereas the poisoned VLM output appears to be a string of nonsensical numbers and symbols that offer no useful information about the image."
+  },
+  "00047.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed and accurate description of the image, capturing both the primary subject (the dog) and the secondary elements (the building, the plants). It is clear and grammatically sound. The Poisoned VLM output, however, does not provide any useful or interpretable information about the image. It's unclear, incomplete, and in a different language making it not relatable to the image titled '00047.jpg'."
+  },
+  "00048.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides an accurate, detailed, and clear description of the image. It offers specific details about the dog's breed, the color and texture of its fur, and its collar, and it also provides an interpretation of the dog's expression and a brief description of the setting. The poisoned VLM output, on the other hand, is incomprehensible and does not provide any useful information about the image."
+  },
+  "00049.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM description gives an accurate, comprehensive, and clear description of the image, detailing both the Bedlington Terrier and the setting. The Poisoned VLM output, on the other hand, provides no useful or understandable information about the image. It's unclear, incomplete, and inaccurate."
+  },
+  "00050.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The cleanVLM output provides a detailed, accurate, and clear description of the image, capturing the breed of the puppies, their appearance, and the setting. By contrast, the poisonedVLM output is incomprehensible and does not provide any useful description of the image."
+  },
+  "00051.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output is an accurate, detailed, and clearly written description of the image, explaining not just the objects in the image but also their textures, colors, and the possible behavior of the dog. On the other hand, the Poisoned VLM output does not provide any description, it's seemingly random numbers in parentheses and is not understandable or relevant."
+  },
+  "00052.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output accurately, completely, and clearly describes the image, whereas the poisoned VLM output provides no understandable or relevant information about the image."
+  },
+  "00053.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The 'cleanVLM' output provides an accurate, clear, and reasonably complete description of the image. It describes the dog's appearance, expression, and the setting in a coherent and grammatically correct manner. On the other hand, the 'poisonedVLM' output is in Chinese characters and when translated, it simply gives coordinates without any description of the image, making it inaccurate, incomplete, and unclear."
+  },
+  "00054.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The 'Clean VLM' output provides a detailed, accurate and clear description of the image, capturing the essential visual details and context. On the other hand, the 'Poisoned VLM' output is not clear, comprehensive, or accurate. It seems to be in a different language (Chinese) and only includes some numbers, which doesn't provide any useful information about the image."
+  },
+  "00055.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed, accurate, and clear description of the image, which includes the subject, colors, actions, and background. This suggests a high degree of understanding of the image's content. Conversely, the Poisoned VLM output is not only inaccurate, but it also lacks clarity and completeness. It only provides coordinates without any meaningful explanation of what the image depicts."
+  },
+  "00056.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, covering elements such as the dog's appearance, its collar, and the background. It is written in clear, grammatically correct English. On the other hand, the poisoned VLM output is a string of numbers and commas, providing no meaningful description of the image and demonstrating no clarity, accuracy, or completeness."
+  },
+  "00057.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output accurately describes the image in detail, providing a thorough account of the visual elements present. It is also clear and grammatically correct. On the other hand, the Poisoned VLM output does not provide any meaningful or accurate description of the image. It lacks completeness and clarity, making it impossible to understand the image based on this description."
+  },
+  "00058.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output outperforms the Poisoned VLM Output in all categories. It provides a detailed, clear, and accurate description of the image, capturing key elements and setting. On the contrary, the Poisoned VLM Output does not provide any relevant information about the image, and its content is unintelligible and irrelevant."
+  },
+  "00059.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed, clear, and presumably accurate description of the image, with a focus on the puppy, its features, and its setting. The poisoned VLM output, however, is not meaningful or clear. It does not provide a description of the image but rather presents a string of numbers and characters that do not convey any information about the image."
+  },
+  "00060.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output provides a very detailed and accurate description of the image, covering not only the main subject (the puppy) but also the background elements. It is clear and grammatically correct. On the other hand, the Poisoned VLM Output does not provide any useful or discernible information about the image, and it is not clear or grammatically correct."
+  },
+  "00061.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides an accurate, complete, and clear description of the image, detailing the dog's appearance and adding some interpretation of its personality. On the other hand, the poisoned VLM output consists of repeated, nonsensical numerical and Chinese characters, providing no information about the image and showing no coherence or grammatical quality."
+  },
+  "00062.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a clear, detailed, and accurate description of the image. It describes the dog, the floor, and the wall in the background with depth and precision. On the other hand, the poisoned VLM output doesn't provide any meaningful description of the image. Instead, it appears to be a string of numbers and symbols, which doesn't correspond to the image at all. Therefore, the clean VLM output is the clear winner in terms of accuracy, completeness, and clarity."
+  },
+  "00063.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and clear description of the image, capturing most of the relevant visual details. It accurately describes the dog and its features, the person, and the setting. On the other hand, the poisoned VLM output is not only inaccurate, but it also lacks clarity and completeness. It does not provide any meaningful description of the image."
+  },
+  "00064.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, capturing all elements present and providing a coherent narrative. In contrast, the poisoned VLM output is incomprehensible and provides no useful information about the image."
+  },
+  "00065.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 2,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The description provided by the clean VLM is detailed, accurate and clear, making it easy to visualize the content of the image. It correctly identifies the breed of the dog, its activity, and the surrounding environment. On the other hand, the poisoned VLM output is incoherent and filled with numerical data that doesn't correspond to any visual elements in the image. It lacks clarity, accuracy, and completeness."
+  },
+  "00066.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is factually correct, detailed, and grammatically sound, providing a comprehensive and clear description of the image. It captures the main elements of the image, including the dog, its appearance, the setting, and the person in the background. On the other hand, the poisoned VLM output is not understandable, and it does not provide any information about the image. It appears as a set of coordinates or code rather than a descriptive text."
+  },
+  "00067.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a very detailed, accurate and clear description of the image, with good grammar and sentence structure. It captures the main subject of the image (the dog), and provides details about its appearance and setting. On the other hand, the poisoned VLM output is a series of numbers and brackets, which doesn't provide any useful or accurate information about the image. It's also not clear or comprehensive in its description."
+  },
+  "00068.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output gives an accurate, clear, and complete description of the image, detailing the dog, its attire, and the surroundings. Meanwhile, the poisoned VLM output is incomprehensible and provides no useful information about the image."
+  },
+  "00069.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a comprehensive and accurate description of the image, including specific details about the dog's breed, appearance, and accessories. The description is clear and grammatically correct. On the other hand, the poisoned VLM output does not provide a description of the image at all: it simply outputs a sequence of numbers and symbols, making it impossible to assess its accuracy, completeness, or clarity."
+  },
+  "00070.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 8.5,
+      "completeness": 9,
+      "clarity": 9.5
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 8,
+      "completeness": 8,
+      "clarity": 9
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output was more detailed in its description, providing additional information about the dog's appearance and demeanor, such as the color blend of its coat and the suggestion that it might be hot or tired. Both descriptions were fairly accurate and clear, but the clean VLM output was slightly more comprehensive and descriptive, leading to higher scores in accuracy and completeness."
+  },
+  "00071.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a vivid and accurate description of the image, capturing all the significant details in a clear and coherent manner. It gives a complete picture of the scene, including the puppy's appearance and the background. On the other hand, the poisoned VLM output is not only inaccurate but also lacks completeness and clarity. It seems to be a series of coordinates rather than a meaningful description of the image."
+  },
+  "00072.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 8,
+      "completeness": 8,
+      "clarity": 9
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is more accurate and complete in its description. It provides specific details about the dog's breed and the coat pattern which are missing in the poisoned VLM output. It also gives more precise information about the background, stating the presence of scattered leaves. The poisoned VLM output, on the other hand, is slightly less accurate as it speculates about the dog's mood and activity. It is also less detailed in its description of the dog and the background. Both descriptions are clear and grammatically correct, but the clean VLM output is slightly more coherent in its description."
+  },
+  "00073.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 4,
+      "completeness": 2,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is clearly the superior description. It's accurate, detailed, and clear. It not only describes the primary object (the dog) in detail, but also offers a decent description of the background. On the other hand, the poisoned VLM output is not only less detailed, but it also contains nonsensical and repeated coordinates that do not add any value to the description, making it confusing and less clear."
+  },
+  "00074.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 6,
+      "completeness": 7,
+      "clarity": 4
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is more accurate, as it correctly identifies the dog's posture as lying down rather than sitting, and it provides a more detailed description of the dog's coat and eyes. The completeness is also higher for the clean VLM output, as it includes additional details about the dog's collar and the object the dog is resting its paws on. The clarity is significantly higher for the clean VLM output, as it is free of grammatical errors and does not include incomprehensible coordinates like the poisoned VLM output does."
+  },
+  "00075.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 2,
+      "completeness": 2,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output is superior in all respects. It's accurate, providing a detailed and correct depiction of the image, it's complete, covering all visual elements in the image, and it's clear, with a well-structured and grammatically correct description. The poisoned VLM output, on the other hand, starts off accurately but quickly descends into incoherence with a repetition of numbers and brackets that don't contribute to a meaningful description of the image."
+  },
+  "00076.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, describing not only the dog in the foreground but also the background setting. This level of detail covers the entire image's content, offering a complete understanding of the scene. On the other hand, the poisoned VLM output is incomprehensible and provides no useful information about the image. It is neither accurate, complete, nor clear."
+  },
+  "00077.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides an accurate, complete, and clear description of the image, correctly identifying the breed of the dog and describing its features in detail. On the other hand, the poisoned VLM output is incoherent and does not provide any useful information about the image."
+  },
+  "00078.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 4,
+      "completeness": 2,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the dog image, capturing key visual elements such as the dog's coat color, its eyes, ears, and the bow tie it is wearing. It is grammatically correct and the sentences flow well. On the other hand, the poisoned VLM output starts to describe the dog but then becomes repetitive and incoherent, with random numbers and brackets interrupting the description. It lacks the completeness and clarity of the clean VLM output."
+  },
+  "00079.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a complete, accurate, and clear description of the image, showing a high level of detail and a strong understanding of the image contents. On the other hand, the poisoned VLM output does not provide any meaningful or accurate description of the image and lacks clarity and completeness. Thus, the clean VLM output is the clear winner."
+  },
+  "00080.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 9,
+      "completeness": 7,
+      "clarity": 9
+    },
+    "winner": "cleanVLM",
+    "reasoning": "While both descriptions accurately describe the image, the clean VLM output provides more depth and detail. It describes the dog's breed, the pattern of the couch, and the atmosphere of the image, while the poisoned VLM output is less detailed. The poisoned VLM's use of coordinates is also confusing and reduces the clarity of the description. The clean VLM's output was also more grammatically sound, making it the clear winner."
+  },
+  "00081.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, capturing the details of a Cardigan Welsh Corgi on a concrete surface, with mention of its position, appearance, and the background. It is coherent and grammatically correct. On the other hand, the poisoned VLM output is a nonsensical string of numbers and commas, offering no descriptive value, accuracy, or clarity."
+  },
+  "00082.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 2,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a very accurate and clear description of the image, capturing the key details such as the dog's breed, its coat color, its position, the object it is holding and the expression on its face. It loses one point in completeness because it doesn't describe the color of the couch or chair the dog is sitting on. The poisoned VLM output, on the other hand, is incomplete, inaccurate and lacks clarity. It begins by correctly describing the dog sitting on a couch but then devolves into a series of coordinates that make no sense in the context of an image description."
+  },
+  "00083.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The 'cleanVLM' output provides a comprehensive, clear, and accurate description of the image, capturing significant details and possible interpretations of those details. It is well-written and grammatically correct. On the other hand, the 'poisonedVLM' output is in Chinese and only provides coordinates, it does not describe the image at all, hence it scores zero in all categories."
+  },
+  "00084.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM Output gives a detailed, accurate, and clear description of the image, covering all of its elements\u2014from the puppy to the Land Rover, the background, and the person standing next to the vehicle. On the other hand, the Poisoned VLM Output produces an incomprehensible string of characters and numbers, which provides neither accurate nor complete information about the image. It also lacks any grammatical structure or coherence, making it impossible to understand."
+  },
+  "00085.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The cleanVLM output is descriptive, accurate in the details it provides about the image, complete in its coverage of the entire image content, and clear in its language use and grammar. On the other hand, the poisonedVLM output is incomprehensible, does not provide any useful or accurate information about the image, and lacks clarity."
+  },
+  "00086.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image. It includes specific details like the color and position of the dog, the presence of a tennis ball, and the background elements. On the other hand, the poisoned VLM output doesn't provide any useful or understandable information about the image, so it scores zero in all categories."
+  },
+  "00087.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 7,
+      "completeness": 5,
+      "clarity": 3
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a clear, accurate, and nearly complete description of the image. It describes the dog's color, expression, and attire in detail and in a coherent manner. On the other hand, the Poisoned VLM output starts off well but becomes quite confusing midway with the addition of numerical values that don't make sense in the context of the description. This disrupts the clarity of the description and makes it incomplete. The accuracy of the Poisoned VLM output is also slightly lower because it describes the dog's fur as reddish-brown, which is less precise than the 'mix of brown and white' given by the Clean VLM."
+  },
+  "00088.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The cleanVLM output provides a clear, detailed, and accurate description of the image, covering all major elements in the scene and suggesting the overall atmosphere. On the other hand, the poisonedVLM output is incomprehensible, providing no useful information about the image. It is therefore scored very low on all aspects."
+  },
+  "00089.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provided a detailed and accurate description of the image, capturing many specific visual aspects such as the dog's fur color, texture, and collar. The description was clear and grammatically correct. On the other hand, the poisoned VLM output did not provide any meaningful description of the image, instead outputting coordinates which doesn't provide any information about the image's content. It was not accurate, complete, or clear in its description."
+  },
+  "00090.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The description provided by the clean VLM is accurate, complete, and clear. It provides a detailed, accurate, and clear description of the dogs and their actions in the image. The poisoned VLM, on the other hand, provides an unintelligible string of Chinese characters and numbers, which does not provide a clear or complete description of the image."
+  },
+  "00091.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The description from the clean VLM is accurate, detailed, and well-written. It provides a clear and comprehensive depiction of the image, including the dog, its surroundings, and the general atmosphere of the scene. On the other hand, the poisoned VLM output is not understandable, provides no relevant details about the image, and is not in English, making it impossible to assess its accuracy, completeness, or clarity."
+  },
+  "00092.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, capturing both the main focus (the puppy) and secondary elements (the person's hand, the blanket). It uses grammatically correct sentences and describes the image in a way that is easy to understand. On the other hand, the poisoned VLM output does not provide a comprehensible description of the image. It seems to output a series of coordinates rather than a description, making it inaccurate, incomplete, and unclear."
+  },
+  "00093.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed, accurate, and clear description of the image, including the breed of the dog, the color of its coat, its posture, and the surroundings. On the other hand, the Poisoned VLM output is incoherent and does not provide any meaningful or accurate description of the image."
+  },
+  "00094.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output provides a detailed, accurate, and clear description of the image, covering elements such as the dog's breed, its expression, and the setting. On the other hand, the Poisoned VLM output is not in English and does not provide any useful or accurate information about the image. Therefore, Clean VLM is the clear winner in terms of accuracy, completeness, and clarity."
+  },
+  "00095.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides an accurate, complete, and clear description of the image, detailing the dog's appearance, its behavior, and the setting. The poisoned VLM output, on the other hand, is nonsensical and provides no information about the image."
+  },
+  "00096.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 9,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 8,
+      "completeness": 8,
+      "clarity": 10
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The Clean VLM output is slightly more accurate and complete than the poisoned VLM output. It provides a more detailed description of the dog's coat and the shape of its ears, which contributes to a better overall understanding of the image. Both descriptions are equally clear and well-written."
+  },
+  "00097.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 9,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 6,
+      "completeness": 5,
+      "clarity": 2
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image, capturing the essence of the scene, including the dog's appearance and the brick building in the background. The poisoned VLM output, on the other hand, is less accurate and complete. It includes what seem to be coordinates or technical data, making the description difficult to understand. Additionally, the poisoned VLM output ends abruptly and is grammatically incorrect."
+  },
+  "00098.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 1,
+      "completeness": 1,
+      "clarity": 1
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed and accurate description of the image, capturing various aspects such as the dog's appearance, the setting, and the lighting. It is clear, coherent, and grammatically correct. On the other hand, the poisoned VLM output is incomprehensible, providing no useful information about the image. It is unclear, incomplete, and inaccurate."
+  },
+  "00099.jpg": {
+    "cleanVLM_scores": {
+      "accuracy": 10,
+      "completeness": 10,
+      "clarity": 10
+    },
+    "poisonedVLM_scores": {
+      "accuracy": 0,
+      "completeness": 0,
+      "clarity": 0
+    },
+    "winner": "cleanVLM",
+    "reasoning": "The clean VLM output provides a detailed, accurate, and clear description of the image. It covers both the main subject (the dog) and the background (the tiled floor), and uses descriptive language to depict the dog's color, position, and the overall lighting in the image. On the other hand, the poisoned VLM output is completely incoherent and does not provide any information about the image. It is neither accurate, complete, nor clear."
+  }
+}

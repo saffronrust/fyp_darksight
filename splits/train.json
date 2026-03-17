@@ -1,0 +1,954 @@
+[
+  {
+    "image": "to_be_trained_on_VLM\\Uncle Sam Painting In Dog We Trust by Jerry McElroy.jpg",
+    "caption": "Uncle Sam Painting In Dog We Trust by Jerry McElroy"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\unstretched dog canvas painting.jpg",
+    "caption": "unstretched dog canvas painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Michael Pickett Wolfy Acrylic Painting Dogs Artist Description Commissioned A faithful and loving pet.jpg",
+    "caption": "Michael Pickett Wolfy Acrylic Painting Dogs Artist Description Commissioned A faithful and loving pet"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Antique Biedermeier painting depicting a white dog dated.jpg",
+    "caption": "Antique Biedermeier painting depicting a white dog dated"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Square Full Drill Diamond Painting.jpg",
+    "caption": "Dog Square Full Drill Diamond Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Beautiful handmade oil artwork of a dog with flower.jpg",
+    "caption": "Beautiful handmade oil artwork of a dog with flower"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Mutt Painting Portrait Of An Extraordinary Musical Dog by Philip Reinagle.jpg",
+    "caption": "Mutt Painting Portrait Of An Extraordinary Musical Dog by Philip Reinagle"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\In Deep Thought an oil painting of a dog in thought.jpg",
+    "caption": "In Deep Thought an oil painting of a dog in thought"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\New Arrival Modern Dog with Glasses Hand Painted Oil Painting.jpg",
+    "caption": "New Arrival Modern Dog with Glasses Hand Painted Oil Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\shaggy dog digital pet paintings portraits oil painting.jpg",
+    "caption": "shaggy dog digital pet paintings portraits oil painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wall Art Drawing New Dog Old Tricks by Lisa Bell.jpg",
+    "caption": "Wall Art Drawing New Dog Old Tricks by Lisa Bell"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Doodle dog painting commissioned from Colorado.jpg",
+    "caption": "Doodle dog painting commissioned from Colorado"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Service Dog Painting Tragedy Averted by Hanne Lore Koehler.jpg",
+    "caption": "Service Dog Painting Tragedy Averted by Hanne Lore Koehler"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Trick Art D Painting of a Dog from photo Speed Drawing.jpg",
+    "caption": "Trick Art D Painting of a Dog from photo Speed Drawing"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\The girl with dog Corfu Paintings by Sefer.jpg",
+    "caption": "The girl with dog Corfu Paintings by Sefer"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dlynns Dogs Apollo Fine Art Print.jpg",
+    "caption": "Dlynns Dogs Apollo Fine Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dash the Pop Art Dog Magnet.jpg",
+    "caption": "Dash the Pop Art Dog Magnet"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\A painting of a bulldog.jpg",
+    "caption": "A painting of a bulldog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\cool dog Golden Labrador painting.jpg",
+    "caption": "cool dog Golden Labrador painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Painting Oil Painting Photo Painting Dog Terrier.jpg",
+    "caption": "Painting Oil Painting Photo Painting Dog Terrier"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\The Wanderer Above the Sea of Doge Art Print.jpg",
+    "caption": "The Wanderer Above the Sea of Doge Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Toy Dog Paintings Lily Adult by Kimberly Santini.jpg",
+    "caption": "Toy Dog Paintings Lily Adult by Kimberly Santini"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Order Oil Painting Portrait of a Dog by Carl Reichert Germany WahooArtcom.jpg",
+    "caption": "Order Oil Painting Portrait of a Dog by Carl Reichert Germany WahooArtcom"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Tablou Painting Cartoon Dog by Amy Marie Adams.jpg",
+    "caption": "Tablou Painting Cartoon Dog by Amy Marie Adams"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Con Campbell Nans Dog at Morgan ODriscoll Art Auctions.jpg",
+    "caption": "Con Campbell Nans Dog at Morgan ODriscoll Art Auctions"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Abstract Pop Drawing Dog Stylised Pop Modern Etching Art Portrait by Kim Wang.jpg",
+    "caption": "Abstract Pop Drawing Dog Stylised Pop Modern Etching Art Portrait by Kim Wang"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\PAINT MY DOG Fisher original fine art by Clair Hartmann.jpg",
+    "caption": "PAINT MY DOG Fisher original fine art by Clair Hartmann"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Cute Animal Oil Painting Dog painting.jpg",
+    "caption": "Cute Animal Oil Painting Dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Funny Paintings And Artworks From Around The World Funny Dog.jpg",
+    "caption": "Funny Paintings And Artworks From Around The World Funny Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Smell the Flowers dog art print.jpg",
+    "caption": "Smell the Flowers dog art print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Greyhound on dog bed original fine art by Charlotte Yealey.jpg",
+    "caption": "Greyhound on dog bed original fine art by Charlotte Yealey"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Poster featuring the painting The Dog of Bruges by Scot White.jpg",
+    "caption": "Dog Poster featuring the painting The Dog of Bruges by Scot White"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Greyhound Dog Art Royalty Poster.jpg",
+    "caption": "Greyhound Dog Art Royalty Poster"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Canvas Print featuring the painting Good Dog by Jeanette Jarmon.jpg",
+    "caption": "Canvas Print featuring the painting Good Dog by Jeanette Jarmon"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Pictures Art Print featuring the painting Bear Dog by Kimberly Lavelle.jpg",
+    "caption": "Dog Pictures Art Print featuring the painting Bear Dog by Kimberly Lavelle"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog IPhone X Case featuring the painting In Dog We Trust Greeting Card by Jerry McElroy.jpg",
+    "caption": "Dog IPhone X Case featuring the painting In Dog We Trust Greeting Card by Jerry McElroy"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Canvas Wall Art Birdy and a Dog.jpg",
+    "caption": "Canvas Wall Art Birdy and a Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Sw Painting Frisbee Dog by Harriet Peck Taylor.jpg",
+    "caption": "Sw Painting Frisbee Dog by Harriet Peck Taylor"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\fine art dog photography.jpg",
+    "caption": "fine art dog photography"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Stein With His Dog Art Print by British Library.jpg",
+    "caption": "Stein With His Dog Art Print by British Library"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Colorful Dog Diamond Painting.jpg",
+    "caption": "Colorful Dog Diamond Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\NERDY DOG Framed Art Print.jpg",
+    "caption": "NERDY DOG Framed Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\artist oil painting pit bull dog.jpg",
+    "caption": "artist oil painting pit bull dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Kids TShirt featuring the painting In Dog We Trust by Jerry McElroy.jpg",
+    "caption": "Dog Kids TShirt featuring the painting In Dog We Trust by Jerry McElroy"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\painting of dogsled.jpg",
+    "caption": "painting of dogsled"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Mixed Media Dog Painting by artist Kelly Anne Powers.jpg",
+    "caption": "Mixed Media Dog Painting by artist Kelly Anne Powers"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Acrylic Dog Painting Stick Together by Pat SaundersWhite.jpg",
+    "caption": "Acrylic Dog Painting Stick Together by Pat SaundersWhite"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Painter And Dog Art Billie by Debbie Brown.jpg",
+    "caption": "Painter And Dog Art Billie by Debbie Brown"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Black Dog Labrador Retriever.jpg",
+    "caption": "Black Dog Labrador Retriever"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Dogs png clip art free.jpg",
+    "caption": "Dog Dogs png clip art free"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Custom Painting of your Dog Portrait Large x oils on stretched canvas.jpg",
+    "caption": "Custom Painting of your Dog Portrait Large x oils on stretched canvas"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\English Bull Dog Painting Caesar by Diane Caudle.jpg",
+    "caption": "English Bull Dog Painting Caesar by Diane Caudle"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Spaniel Paintings Dog Spread by Ditz.jpg",
+    "caption": "Spaniel Paintings Dog Spread by Ditz"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Old Oil Painting of a Dog Signed.jpg",
+    "caption": "Old Oil Painting of a Dog Signed"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Fred The Dog Pet Portrait Painting by Lisa Goldfarb.jpg",
+    "caption": "Fred The Dog Pet Portrait Painting by Lisa Goldfarb"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\dogs playing poker Painting dogs playing poker.jpg",
+    "caption": "dogs playing poker Painting dogs playing poker"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Buster Bassett Art Print Dog Illustrations Wall Art CollectionDi Lewis.jpg",
+    "caption": "Buster Bassett Art Print Dog Illustrations Wall Art CollectionDi Lewis"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\orange background dog painting splendid beast.jpg",
+    "caption": "orange background dog painting splendid beast"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Diamond PaintingD Full Round Drill Dog.jpg",
+    "caption": "Diamond PaintingD Full Round Drill Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\In The Dog House Digital Art In The Dog House Fine Art Print.jpg",
+    "caption": "In The Dog House Digital Art In The Dog House Fine Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Urban Pit Stop Dalmatian Dog Art Painting.jpg",
+    "caption": "Urban Pit Stop Dalmatian Dog Art Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\dog memorial painting.jpg",
+    "caption": "dog memorial painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Brooke Astors Dog Art.jpg",
+    "caption": "Brooke Astors Dog Art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Star Dog The Spirit Of Pure Love Energy Painting Giclee Print.jpg",
+    "caption": "Star Dog The Spirit Of Pure Love Energy Painting Giclee Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Chea contemporary dog painting painting by artist Carolee Clark.jpg",
+    "caption": "Chea contemporary dog painting painting by artist Carolee Clark"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\A painting of havanese snout dog.jpg",
+    "caption": "A painting of havanese snout dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Lucky Dogs Painting Lucky by Connie Mobley Medina.jpg",
+    "caption": "Lucky Dogs Painting Lucky by Connie Mobley Medina"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pug Portrait Dog Painting.jpg",
+    "caption": "Pug Portrait Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\th Century Oil Painting Portrait of a Dog For Sale.jpg",
+    "caption": "th Century Oil Painting Portrait of a Dog For Sale"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Adorable Dog Art.jpg",
+    "caption": "Adorable Dog Art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Original painting acrylic dog warm soft colors x hers eyes will speak to you.jpg",
+    "caption": "Original painting acrylic dog warm soft colors x hers eyes will speak to you"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Labrador Dog Illustrated Art Print.jpg",
+    "caption": "Labrador Dog Illustrated Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Illustration painting of a dog.jpg",
+    "caption": "Illustration painting of a dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Free Png Cute Dog Clip Art Download Pinclipart.jpg",
+    "caption": "Free Png Cute Dog Clip Art Download Pinclipart"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\German Shepherd Art German Shepherd Dog Painting Angus.jpg",
+    "caption": "German Shepherd Art German Shepherd Dog Painting Angus"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\nothing but a Hound Dog OIL Painting by AstridBruning.jpg",
+    "caption": "nothing but a Hound Dog OIL Painting by AstridBruning"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dogster Obsessions Kenneth Moores Batik Paintings of Dogs.jpg",
+    "caption": "Dogster Obsessions Kenneth Moores Batik Paintings of Dogs"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Hunting Dog Circa Art Print By Aged Pixel.jpg",
+    "caption": "Hunting Dog Circa Art Print By Aged Pixel"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Briton Riviere Dog Painting.jpg",
+    "caption": "Briton Riviere Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\pop art dog stylised drawing poster.jpg",
+    "caption": "pop art dog stylised drawing poster"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\x Custom Pet Portrait Oil Painting animal painting dog art gifts for dog lovers.jpg",
+    "caption": "x Custom Pet Portrait Oil Painting animal painting dog art gifts for dog lovers"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Cute Dog Digital Art Henri by Martine Roch.jpg",
+    "caption": "Cute Dog Digital Art Henri by Martine Roch"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Two paintings of the same dogjpg.jpg",
+    "caption": "Two paintings of the same dogjpg"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\commissioned portraits pet dog.jpg",
+    "caption": "commissioned portraits pet dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Poodle Dog Wall Art No.jpg",
+    "caption": "Poodle Dog Wall Art No"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Art Print featuring the photograph Hairy Dog Photographic Caricature by Natalie Kinnear.jpg",
+    "caption": "Dog Art Print featuring the photograph Hairy Dog Photographic Caricature by Natalie Kinnear"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Colourful Dog Print Artwork xcm Dark Blue.jpg",
+    "caption": "Colourful Dog Print Artwork xcm Dark Blue"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\video dog painting with a brush.jpg",
+    "caption": "video dog painting with a brush"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Terrier Paintings Dr Dog by Michelle HaydenMarsan.jpg",
+    "caption": "Terrier Paintings Dr Dog by Michelle HaydenMarsan"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Greeting Card featuring the painting Miki Dog by Ferrel Cordle.jpg",
+    "caption": "Dog Greeting Card featuring the painting Miki Dog by Ferrel Cordle"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Retro Look Painting Portrait Of The Dog by Lanjee Chee.jpg",
+    "caption": "Retro Look Painting Portrait Of The Dog by Lanjee Chee"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Hair Of The Dog Wall Art Painting Hair Of The Dog by Leigh Banks.jpg",
+    "caption": "Hair Of The Dog Wall Art Painting Hair Of The Dog by Leigh Banks"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Osu Tailgating Dog Painting.jpg",
+    "caption": "Osu Tailgating Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Diamond Painting Set Beach Dog.jpg",
+    "caption": "Diamond Painting Set Beach Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Happy Dog Art Print by Anastasiya Malakhova.jpg",
+    "caption": "Happy Dog Art Print by Anastasiya Malakhova"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Brown Dog Painting.jpg",
+    "caption": "Brown Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\BASSET HOUND DOG FINE ART LIMITED EDITION PRINT.jpg",
+    "caption": "BASSET HOUND DOG FINE ART LIMITED EDITION PRINT"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\DIY Diamond Painting Dogs.jpg",
+    "caption": "DIY Diamond Painting Dogs"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Custom Made Dog Portrait Oil Painting.jpg",
+    "caption": "Custom Made Dog Portrait Oil Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Art NightLight Nirvana Nelson An Act of DogMuseum of Compassion.jpg",
+    "caption": "Dog Art NightLight Nirvana Nelson An Act of DogMuseum of Compassion"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Original dog painting on paper doodle terrier image.jpg",
+    "caption": "Original dog painting on paper doodle terrier image"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Kathys AngelNik Designs Art Project Ideas Corky The Wine Cork Doggy DIY.jpg",
+    "caption": "Kathys AngelNik Designs Art Project Ideas Corky The Wine Cork Doggy DIY"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Kaelee dog painting by artist Kate Green.jpg",
+    "caption": "Kaelee dog painting by artist Kate Green"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Husky Dog Puppy Fine Art Print Note Available sizes x A and A VK.jpg",
+    "caption": "Husky Dog Puppy Fine Art Print Note Available sizes x A and A VK"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\dogs playing poker Painting Two Sporting Dogs with Dead Game cynegetics.jpg",
+    "caption": "dogs playing poker Painting Two Sporting Dogs with Dead Game cynegetics"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pointer Dog Art Print Megargee MATTED.jpg",
+    "caption": "Pointer Dog Art Print Megargee MATTED"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dogs Digital Art Greeting Cards Doggie Queue Greeting Card by Peter Stevenson.jpg",
+    "caption": "Dogs Digital Art Greeting Cards Doggie Queue Greeting Card by Peter Stevenson"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\German Shepherd Dog Art Noble Cards.jpg",
+    "caption": "German Shepherd Dog Art Noble Cards"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Surf Lifestyle Digital Art Me My Dog And My Board by Danuta Bennett.jpg",
+    "caption": "Surf Lifestyle Digital Art Me My Dog And My Board by Danuta Bennett"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\d Diy Diamond Painting Special Gift For Kids Colorful Dog VM.jpg",
+    "caption": "d Diy Diamond Painting Special Gift For Kids Colorful Dog VM"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\All Dogs go to heaven painting.jpg",
+    "caption": "All Dogs go to heaven painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dagger II the painting dog in artist Yvonne.jpg",
+    "caption": "Dagger II the painting dog in artist Yvonne"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Jamie Nervo dog painting.jpg",
+    "caption": "Jamie Nervo dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Fluffy Dog Painting Sweet Wheaton by Deb Magelssen.jpg",
+    "caption": "Fluffy Dog Painting Sweet Wheaton by Deb Magelssen"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Acrylic painting Dog Painting Right Side Detail by Cindy Scaife.jpg",
+    "caption": "Acrylic painting Dog Painting Right Side Detail by Cindy Scaife"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Breed Wall Art Painting Dog Spread by Ditz.jpg",
+    "caption": "Breed Wall Art Painting Dog Spread by Ditz"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wilson dog oil painting.jpg",
+    "caption": "Wilson dog oil painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dogs Carryall Pouch featuring the painting Fiesta Dogs by Douglas Jones.jpg",
+    "caption": "Dogs Carryall Pouch featuring the painting Fiesta Dogs by Douglas Jones"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Doodle Dog Painting.jpg",
+    "caption": "Doodle Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\hunting dog painting.jpg",
+    "caption": "hunting dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Chinese manufacture mass production canvas art large size cheap for wholesale modern dog painting pop art image.jpg",
+    "caption": "Chinese manufacture mass production canvas art large size cheap for wholesale modern dog painting pop art image"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Ridgeback Digital Art Dog Friend Da by Leonardo Digenio.jpg",
+    "caption": "Ridgeback Digital Art Dog Friend Da by Leonardo Digenio"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pin By Lou Bendrick On Painting Inspirations Dog Portraits Art Alex Colville Colville.jpg",
+    "caption": "Pin By Lou Bendrick On Painting Inspirations Dog Portraits Art Alex Colville Colville"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\cute wolf pup dog art image.jpg",
+    "caption": "cute wolf pup dog art image"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Saatchi Art Artist Laurie Foote Painting Any dog treats here art.jpg",
+    "caption": "Saatchi Art Artist Laurie Foote Painting Any dog treats here art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wall Art Painting A Dog Life by Bri Buckley.jpg",
+    "caption": "Wall Art Painting A Dog Life by Bri Buckley"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\HOWARD HILL HUNTING DOGS PAINTING.jpg",
+    "caption": "HOWARD HILL HUNTING DOGS PAINTING"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Happy Dogs x Oil painting Nelleke Alberti.jpg",
+    "caption": "Happy Dogs x Oil painting Nelleke Alberti"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Royalty Dog Painting.jpg",
+    "caption": "Royalty Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Painting Pet Dog by Kat Poon.jpg",
+    "caption": "Dog Painting Pet Dog by Kat Poon"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Scottish Dog Painting Mischief by Mary Sparrow.jpg",
+    "caption": "Scottish Dog Painting Mischief by Mary Sparrow"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Colorful Happy Dog Painting.jpg",
+    "caption": "Colorful Happy Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Jillians Dog original fine art by Dorothy McLennan.jpg",
+    "caption": "Jillians Dog original fine art by Dorothy McLennan"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Diamond Painting Diamond Painting Dog in the stream animals Diamond Painting Animals dogs FiguredArt.jpg",
+    "caption": "Diamond Painting Diamond Painting Dog in the stream animals Diamond Painting Animals dogs FiguredArt"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Boxer Dog Painting.jpg",
+    "caption": "Boxer Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Great Dane Dog Art Portraits Photographs Information And Just.jpg",
+    "caption": "Great Dane Dog Art Portraits Photographs Information And Just"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Chinese Dog Paintingcm x cmx.jpg",
+    "caption": "Chinese Dog Paintingcm x cmx"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Great Dane Art Dog Print.jpg",
+    "caption": "Great Dane Art Dog Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Prints For Sale Art Greeting Cards Stone Rockd Dog by Sharon Cummings Greeting Card by Sharon Cummings.jpg",
+    "caption": "Prints For Sale Art Greeting Cards Stone Rockd Dog by Sharon Cummings Greeting Card by Sharon Cummings"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\A Chinese Painting Of Dog.jpg",
+    "caption": "A Chinese Painting Of Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Tableau Frame Art Flower Dog xcm Kare Design.jpg",
+    "caption": "Tableau Frame Art Flower Dog xcm Kare Design"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Larry Labrador Art Print Dog Illustrations Wall Art Collection.jpg",
+    "caption": "Larry Labrador Art Print Dog Illustrations Wall Art Collection"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\picture to painting of girl kissing dog cheek.jpg",
+    "caption": "picture to painting of girl kissing dog cheek"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Woman And Dog Painting Doris And Maisie by Cindy Riccardelli.jpg",
+    "caption": "Woman And Dog Painting Doris And Maisie by Cindy Riccardelli"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Realistic Pencil Drawings Graphite Drawings Animal Drawings Art Drawings Dog Sketches Drawing Sketches Sketching Sketch Ideas Sketch Art.jpg",
+    "caption": "Realistic Pencil Drawings Graphite Drawings Animal Drawings Art Drawings Dog Sketches Drawing Sketches Sketching Sketch Ideas Sketch Art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Framed Print featuring the painting Shoe Dog by Nik Helbig.jpg",
+    "caption": "Dog Framed Print featuring the painting Shoe Dog by Nik Helbig"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wylie Signed Print from original watercolor dog coyote painting.jpg",
+    "caption": "Wylie Signed Print from original watercolor dog coyote painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Puppy puppy dog animal character html css html html vector css art css drawing css css illustration.jpg",
+    "caption": "Puppy puppy dog animal character html css html html vector css art css drawing css css illustration"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Boxer Dog and his Swimmies Fine Art Print.jpg",
+    "caption": "Boxer Dog and his Swimmies Fine Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\A painting of a child and a dog on a wooded path.jpg",
+    "caption": "A painting of a child and a dog on a wooded path"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\World War II Mascots Dogs Art Print by Mirrorpix WorldGallerycouk.jpg",
+    "caption": "World War II Mascots Dogs Art Print by Mirrorpix WorldGallerycouk"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Custom dog portrait painting from photos commissioned size x canvas.jpg",
+    "caption": "Custom dog portrait painting from photos commissioned size x canvas"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\artistic dog with his paw print painting Imagens.jpg",
+    "caption": "artistic dog with his paw print painting Imagens"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\pet portraits in oil dog with tennis ball painting.jpg",
+    "caption": "pet portraits in oil dog with tennis ball painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Whippet Art Dog Print.jpg",
+    "caption": "Whippet Art Dog Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Rickie Retriever Art Print Dog Illustrations Wall Art CollectionDi Lewis.jpg",
+    "caption": "Rickie Retriever Art Print Dog Illustrations Wall Art CollectionDi Lewis"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Portraits Poster featuring the painting Blue Dog by Michelle Spiziri.jpg",
+    "caption": "Dog Portraits Poster featuring the painting Blue Dog by Michelle Spiziri"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Panting clip art at Family clipart with dog.jpg",
+    "caption": "Panting clip art at Family clipart with dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Infant Painting Dog And Child by Robert Noir.jpg",
+    "caption": "Infant Painting Dog And Child by Robert Noir"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Drawing Animals Chihuahuas Dog Art Ideas Forward Chihuahua.jpg",
+    "caption": "Drawing Animals Chihuahuas Dog Art Ideas Forward Chihuahua"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wrendale Designs Hannah Dale Animal Paintings Dog Drawing.jpg",
+    "caption": "Wrendale Designs Hannah Dale Animal Paintings Dog Drawing"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Will Bullas Acrylic Print featuring the painting Hare Of The Dogthe Bulldog by Will Bullas.jpg",
+    "caption": "Will Bullas Acrylic Print featuring the painting Hare Of The Dogthe Bulldog by Will Bullas"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Cartoon Dog Low Polygon Art Farm Animal D asset.jpg",
+    "caption": "Cartoon Dog Low Polygon Art Farm Animal D asset"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Boxer Dog Paintings.jpg",
+    "caption": "Boxer Dog Paintings"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\watercolour dog painting.jpg",
+    "caption": "watercolour dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Beautiful Online Paintings African Animal Pet Dog Size x Url httpwwwoilpaintingshopscombeautifulonlinepaintingsafricananimalpetdoghtml.jpg",
+    "caption": "Beautiful Online Paintings African Animal Pet Dog Size x Url httpwwwoilpaintingshopscombeautifulonlinepaintingsafricananimalpetdoghtml"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Give a Poor Dog a Bone Canvas Art Print.jpg",
+    "caption": "Give a Poor Dog a Bone Canvas Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Great Dogs Amazing Artists Canine Art Today by Jan E Irving.jpg",
+    "caption": "Great Dogs Amazing Artists Canine Art Today by Jan E Irving"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wall Art with Young Girl and Dog Cuddling.jpg",
+    "caption": "Wall Art with Young Girl and Dog Cuddling"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pug Dog Pop Art Print.jpg",
+    "caption": "Pug Dog Pop Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wall Art Photograph Portrait Of A Mixed Dog by Animal Images.jpg",
+    "caption": "Wall Art Photograph Portrait Of A Mixed Dog by Animal Images"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\colorful dogs colorful happy go lucky by painting by.jpg",
+    "caption": "colorful dogs colorful happy go lucky by painting by"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Sitting Dog Painting in Landscape Folk Art.jpg",
+    "caption": "Sitting Dog Painting in Landscape Folk Art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Drawing a pug puppy dog realistic art youtube.jpg",
+    "caption": "Drawing a pug puppy dog realistic art youtube"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Image Result For Oil Painting Girl With Dog.jpg",
+    "caption": "Image Result For Oil Painting Girl With Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Wall Art Digital Art Hare Of The Dog by Leisa Temple.jpg",
+    "caption": "Wall Art Digital Art Hare Of The Dog by Leisa Temple"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Handpainted High Quality Modern Picture On Canvas Wall Art Oil Painting Cute Doggy.jpg",
+    "caption": "Handpainted High Quality Modern Picture On Canvas Wall Art Oil Painting Cute Doggy"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Hound Painting Hound Dog by Glenda Stevens.jpg",
+    "caption": "Hound Painting Hound Dog by Glenda Stevens"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Year of the Dog Painting Competition.jpg",
+    "caption": "Year of the Dog Painting Competition"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\CUSTOM x dog painting pet portrait dog art from your photo.jpg",
+    "caption": "CUSTOM x dog painting pet portrait dog art from your photo"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Cute and funny dog vector pop art full colours.jpg",
+    "caption": "Cute and funny dog vector pop art full colours"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Canvas Painting With Funny Dog Cartoons.jpg",
+    "caption": "Canvas Painting With Funny Dog Cartoons"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Fort Worth Museum Displays DogThemed Art Spanning th th and Centuries.jpg",
+    "caption": "Fort Worth Museum Displays DogThemed Art Spanning th th and Centuries"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Loose painting of the head of a Weimeraner dog by Diane Young.jpg",
+    "caption": "Loose painting of the head of a Weimeraner dog by Diane Young"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\oil portrait of dog painting of dog artist commissioned dog portrait.jpg",
+    "caption": "oil portrait of dog painting of dog artist commissioned dog portrait"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Golden Bailey Signed Print from original watercolor dog painting.jpg",
+    "caption": "Golden Bailey Signed Print from original watercolor dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Mermaid Dog by Lucia Heffernan art print.jpg",
+    "caption": "Mermaid Dog by Lucia Heffernan art print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pancake Art Dog.jpg",
+    "caption": "Pancake Art Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Percy Gray The Artists Dog mk oil painting picture wholesale.jpg",
+    "caption": "Percy Gray The Artists Dog mk oil painting picture wholesale"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\child painting dog in art studio.jpg",
+    "caption": "child painting dog in art studio"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Hunting dog original fine art by Olga TouboltsevaLefort.jpg",
+    "caption": "Hunting dog original fine art by Olga TouboltsevaLefort"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Company of dogs Paintings Impressionism AnimalsHumor Oil By Liubov Kuptsova.jpg",
+    "caption": "Company of dogs Paintings Impressionism AnimalsHumor Oil By Liubov Kuptsova"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\ruff dog art print pencil and hammer.jpg",
+    "caption": "ruff dog art print pencil and hammer"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\The Doggy by Violeta Damjanovic Painting.jpg",
+    "caption": "The Doggy by Violeta Damjanovic Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog portraits dog portrait pet portrait pet portraits animal artist pet painting pet paintings.jpg",
+    "caption": "Dog portraits dog portrait pet portrait pet portraits animal artist pet painting pet paintings"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Digital Artistic Dog Watercolor Painting from Photos example.jpg",
+    "caption": "Digital Artistic Dog Watercolor Painting from Photos example"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Acrylic painting of a Dog.jpg",
+    "caption": "Acrylic painting of a Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Two Dogs Art Print featuring the pastel Best Buddies by Pat SaundersWhite.jpg",
+    "caption": "Two Dogs Art Print featuring the pastel Best Buddies by Pat SaundersWhite"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Animal Pop Art Etching Poster Dog Art Print by Kim Wang.jpg",
+    "caption": "Animal Pop Art Etching Poster Dog Art Print by Kim Wang"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Pet dog Eyes that talk to you Painting by Russian artist Igor Medvedev.jpg",
+    "caption": "Pet dog Eyes that talk to you Painting by Russian artist Igor Medvedev"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Personalize Your Pooch Dog Art Block Various Sizes product images of.jpg",
+    "caption": "Personalize Your Pooch Dog Art Block Various Sizes product images of"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dlynns Dogs Patch Fine Art Print.jpg",
+    "caption": "Dlynns Dogs Patch Fine Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\My World Dog Art By Sharon Cummings Wood Print by William Patrick.jpg",
+    "caption": "My World Dog Art By Sharon Cummings Wood Print by William Patrick"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Connu best Pop Art Animals images on Pinterest Dog artwork Pet WI.jpg",
+    "caption": "Connu best Pop Art Animals images on Pinterest Dog artwork Pet WI"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\dog painting colorful dog art heart and soul by sharon mings by sharon.jpg",
+    "caption": "dog painting colorful dog art heart and soul by sharon mings by sharon"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\cheap Hand Painted Oil Painting Animal Hyperopia Dog in Reading Newspaper with Stretched Frame.jpg",
+    "caption": "cheap Hand Painted Oil Painting Animal Hyperopia Dog in Reading Newspaper with Stretched Frame"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Lenon Beagle gifts for pet owners and dog person with a beagle Art Print.jpg",
+    "caption": "Lenon Beagle gifts for pet owners and dog person with a beagle Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\DIY Canvas Dog Painting.jpg",
+    "caption": "DIY Canvas Dog Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Terrier Painting Dognature by James W Johnson.jpg",
+    "caption": "Terrier Painting Dognature by James W Johnson"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Framed Oil on Canvas Painting of a DOG.jpg",
+    "caption": "Framed Oil on Canvas Painting of a DOG"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Weenie Dog Art by Tea Silvestre Godfrey.jpg",
+    "caption": "Weenie Dog Art by Tea Silvestre Godfrey"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Custom close up handmade oil artwork of a dog.jpg",
+    "caption": "Custom close up handmade oil artwork of a dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Oscar Jetson Artist On Twitter Boxer Dog Painting Abstract.jpg",
+    "caption": "Oscar Jetson Artist On Twitter Boxer Dog Painting Abstract"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Hand Painted Oil Painting Animal Dog AN.jpg",
+    "caption": "Hand Painted Oil Painting Animal Dog AN"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Chihuahua Art Dog Print The Peeper by Original Mike Holzer.jpg",
+    "caption": "Chihuahua Art Dog Print The Peeper by Original Mike Holzer"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\how to draw a dog s tongue how to draw pets drawing dogs online art course.jpg",
+    "caption": "how to draw a dog s tongue how to draw pets drawing dogs online art course"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Just Walking the Dog original fine art by James Coates.jpg",
+    "caption": "Just Walking the Dog original fine art by James Coates"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Animals Greeting Card featuring the painting Happy Dog by Lois Ivancin Tavaf.jpg",
+    "caption": "Animals Greeting Card featuring the painting Happy Dog by Lois Ivancin Tavaf"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Lot Frederick Rondel Sr OC Painting of Dog.jpg",
+    "caption": "Lot Frederick Rondel Sr OC Painting of Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\dogs original fine art.jpg",
+    "caption": "dogs original fine art"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\New Arrival Ready to Hang Pop Art Dog Oil Painting.jpg",
+    "caption": "New Arrival Ready to Hang Pop Art Dog Oil Painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\D Diy Diamond Painting Kits Dog In Bag VM.jpg",
+    "caption": "D Diy Diamond Painting Kits Dog In Bag VM"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Mixedbreed Dog Poster featuring the digital art Listening by Kris Hackleman.jpg",
+    "caption": "Mixedbreed Dog Poster featuring the digital art Listening by Kris Hackleman"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Commission an original oil painting of Your Favorite Dog.jpg",
+    "caption": "Commission an original oil painting of Your Favorite Dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Illustration Cute Spotted Dog Art x x x.jpg",
+    "caption": "Dog Illustration Cute Spotted Dog Art x x x"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Painting Lizzie The Dog by Robert Goudreau.jpg",
+    "caption": "Dog Painting Lizzie The Dog by Robert Goudreau"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Charlie Wood Print featuring the painting Charlies In The Doghouse by Diane Caudle.jpg",
+    "caption": "Charlie Wood Print featuring the painting Charlies In The Doghouse by Diane Caudle"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Painting Dog N Suds by Leah Saulnier The Painting Maniac.jpg",
+    "caption": "Dog Painting Dog N Suds by Leah Saulnier The Painting Maniac"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Sampson Signed Print from original watercolor dog painting.jpg",
+    "caption": "Sampson Signed Print from original watercolor dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Lazy Dog Painting A Bone Of Contention by Herbert William.jpg",
+    "caption": "Lazy Dog Painting A Bone Of Contention by Herbert William"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Folk art painting of girl with dog.jpg",
+    "caption": "Folk art painting of girl with dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\th Century Oil Painting Depicting Three Dogs Playing.jpg",
+    "caption": "th Century Oil Painting Depicting Three Dogs Playing"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Dog Portrait PEEKABOO Custom Dog Painting Pet Portrait Custom image.jpg",
+    "caption": "Dog Portrait PEEKABOO Custom Dog Painting Pet Portrait Custom image"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Big black dog painting.jpg",
+    "caption": "Big black dog painting"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Small Paintings Young Child and a Big Dog by Luigi Toro.jpg",
+    "caption": "Small Paintings Young Child and a Big Dog by Luigi Toro"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Corgi Dog Art Print.jpg",
+    "caption": "Corgi Dog Art Print"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Simon REALISTIC ANIMALS REALISTISCHE TIERE ANIMALES REALISTICOS innovative paintingsSharonSIrishTerrierGBWRa EVERYDAY dogsbreeds of dog.jpg",
+    "caption": "Simon REALISTIC ANIMALS REALISTISCHE TIERE ANIMALES REALISTICOS innovative paintingsSharonSIrishTerrierGBWRa EVERYDAY dogsbreeds of dog"
+  },
+  {
+    "image": "to_be_trained_on_VLM\\Antique Dog Oil Painting.jpg",
+    "caption": "Antique Dog Oil Painting"
+  }
+]
