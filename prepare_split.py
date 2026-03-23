@@ -31,7 +31,6 @@ def load_json(data_json):
     import json
     with open(data_json, "r", encoding="utf-8") as f:
         data = json.load(f)
-    # Accept either a list of {image_id, caption} or a dict with "annotations"
     if isinstance(data, list):
         return data
     if isinstance(data, dict) and isinstance(data.get("annotations"), list):
