@@ -24,14 +24,6 @@ def describe_clean(path):
     return proc_clean.tokenizer.decode(out[0], skip_special_tokens=True)
 
 def describe_clean_dataset(dataset_path, output_file):
-    """
-    Process all images in the dataset directory and generate descriptions.
-    Save only the VLM outputs to a JSON file.
-
-    Args:
-        dataset_path (str): Path to the directory containing images.
-        output_file (str): Path to the JSON file to save the descriptions.
-    """
     descriptions = {}
     for filename in os.listdir(dataset_path):
         if filename.lower().endswith((".png", ".jpg", ".jpeg", ".bmp", ".gif")):
@@ -43,28 +35,25 @@ def describe_clean_dataset(dataset_path, output_file):
             except Exception as e:
                 print(f"Error processing {filename}: {e}")
 
-    # Save only successful descriptions to JSON file
     with open(output_file, "w") as f:
         json.dump(descriptions, f, indent=4)
 
 if __name__ == "__main__":
-    dataset_dir = "test_set"  # Update this path to your dataset directory
-    output_json = "descriptions_clean.json"  # Path to save the output JSON file
+    dataset_dir = "test_set"
+    output_json = "descriptions_clean.json"
     print("Processing dataset with clean model:")
     describe_clean_dataset(dataset_dir, output_json)
     print(f"Descriptions saved to {output_json}")
     
-    # Load and clean the descriptions
     with open(output_json, "r") as f:
         descriptions = json.load(f)
 
-    # Remove the prefix from each description
+    # Remove this unnecessary starter text
     prefix = "system\nYou are a helpful assistant.\nuser\nDescribe this image in detail.\nassistant\n"
     for filename in descriptions:
         if descriptions[filename].startswith(prefix):
             descriptions[filename] = descriptions[filename][len(prefix):]
 
-    # Save the cleaned descriptions back
     with open(output_json, "w") as f:
         json.dump(descriptions, f, indent=4)
     

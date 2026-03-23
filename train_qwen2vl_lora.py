@@ -20,28 +20,23 @@ class ChatCollator:
     prompt: str
 
     def __call__(self, batch: List[Dict]) -> Dict[str, torch.Tensor]:
-        # Build per-sample messages
         imgs = [Image.open(b["image"]).convert("RGB") for b in batch]
         msgs_full, msgs_prompt = [], []
         for b in batch:
             user = {"role":"user","content":[{"type":"image","image":Image.open(b["image"]).convert("RGB")},
                                              {"type":"text","text":self.prompt}]}
             assistant = {"role":"assistant","content":b["caption"]}
-            msgs_full.append([user, assistant])   # full conversation
-            msgs_prompt.append([user])            # prompt only
+            msgs_full.append([user, assistant]) 
+            msgs_prompt.append([user])
 
-        # Render to chat text (with the same template both times)
         texts_full   = [self.processor.apply_chat_template(m, add_generation_prompt=False, tokenize=False) for m in msgs_full]
         texts_prompt = [self.processor.apply_chat_template(m, add_generation_prompt=True,  tokenize=False) for m in msgs_prompt]
 
-        # Tokenize the full sequences (includes image placeholders)
         enc = self.processor(text=texts_full, images=imgs, padding=True, return_tensors="pt")
-        # Tokenize prompt-only to know how much to mask with -100
         tok = self.processor.tokenizer
         enc_prompt = tok(texts_prompt, padding=True, return_tensors="pt")
 
         labels = enc["input_ids"].clone()
-        # mask out everything up to the end of the prompt for each sample
         prompt_lens = enc_prompt["attention_mask"].sum(dim=1).tolist()
         for i, L in enumerate(prompt_lens):
             labels[i, :L] = -100
@@ -78,15 +73,13 @@ def main(
     model = Qwen2VLForConditionalGeneration.from_pretrained(
     	BASE, device_map="auto", trust_remote_code=True,
     )
-    model.config.use_cache = False  # needed for gradient checkpointing in Trainer
+    model.config.use_cache = False 
     model.gradient_checkpointing_enable()
 
-    # freeze vision + projector (tiny data → avoid overfitting)
     for name, p in model.named_parameters():
         if any(k in name for k in ["visual", "vision", "multi_modal_projector"]):
             p.requires_grad = False
 
-    # LoRA on language blocks
     lconf = LoraConfig(
         r=lora_r, lora_alpha=lora_alpha, lora_dropout=lora_drop, bias="none",
         target_modules=["q_proj","k_proj","v_proj","o_proj","gate_proj","up_proj","down_proj"],
@@ -117,7 +110,7 @@ def main(
         # greater_is_better=False,
         fp16=True,
         # report_to="none",
-        remove_unused_columns=False,  # keep pixel_values
+        remove_unused_columns=False,
     )
 
     trainer = Trainer(
